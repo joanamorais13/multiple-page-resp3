@@ -1,0 +1,17 @@
+body{
+    background-color: #e5c185;
+        color: #c7522a;
+    text-align: center;
+}
+
+.links{
+   padding: 20px;
+   font-weight: bold;
+   text-align: center;
+
+}
+
+a{
+    text-decoration: underline;
+    color: #fbf2c4;}
+    
